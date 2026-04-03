@@ -10,6 +10,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.8-yellow?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-purple?style=for-the-badge)
 
+---
 A machine learning-based web application that predicts laptop prices in Bangladesh Taka (৳) based on hardware specifications and features.
 
 </div>
