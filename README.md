@@ -23,10 +23,10 @@ A machine learning-based web application that predicts laptop prices in Banglade
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║        🎯 LAPTOP PRICE PREDICTOR 🎯                      ║
+║        🎯 LAPTOP PRICE PREDICTOR 🎯                       ║
 ║                                                            ║
-║      Intelligent Machine Learning Price Estimation        ║
-║         For Bangladeshi Laptop Market (৳)                ║
+║      Intelligent Machine Learning Price Estimation         ║
+║         For Bangladeshi Laptop Market (৳)                  ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
